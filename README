@@ -4,6 +4,11 @@ What is this
   Personal salvage for inactive mod_cband project to fix some bugs.
 
 
+Docker
+============
+There is also a Docker image! Clone [HazCod/docker-mod_cband](https://github.com/HazCod/docker-mod_cband) and run `setup.sh`. mod_cband.so should be in `output/`.
+
+
 Changelog
 =========
 
